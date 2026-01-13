@@ -1,8 +1,8 @@
 # 🚀 Leandro José | Full Stack Developer
 
-### 📍 São Paulo, Brasil (ou sua cidade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+### 📍 Campo Grande - Mato Grosso Do Sul
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-jos%C3%A9-6007a7260/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leanjbs4@gmail.com)
 
 ---
 
