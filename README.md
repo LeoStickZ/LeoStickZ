@@ -2,24 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leandro José, tenho 20 anos e sou um jovem apaixonado por técnologia, com curso técnico
-no senac de OPERADOR DE COMPUTADOR e atualmente cursando Técnico em Desenvolvimento de Sistemas
-no SENAC.
+Me chamo Leandro José, tenho 20 anos e sou um jovem apaixonado por programação
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/LeoStickZ?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LeoStickZ?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LeoStickZ?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeoStickZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+
         />
     </a>
 </p>
@@ -150,7 +135,7 @@ no SENAC.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="201" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LeoStickZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -158,7 +143,7 @@ no SENAC.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="201" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoStickZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
