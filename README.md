@@ -2,12 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leandro José, tenho 20 anos e sou um jovem apaixonado por programação
+Me chamo Leandro José, tenho 20 anos e sou um jovem apaixonado por técnologia, com curso técnico
+no senac de OPERADOR DE COMPUTADOR e atualmente cursando Técnico em Desenvolvimento de Sistemas
+no SENAC.
 
-
-        />
-    </a>
-</p>
 
 ---
 
@@ -135,7 +133,7 @@ Me chamo Leandro José, tenho 20 anos e sou um jovem apaixonado por programaçã
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="201" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LeoStickZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -143,7 +141,7 @@ Me chamo Leandro José, tenho 20 anos e sou um jovem apaixonado por programaçã
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="201" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoStickZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
